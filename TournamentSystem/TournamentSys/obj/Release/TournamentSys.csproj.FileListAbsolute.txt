@@ -1,0 +1,16 @@
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Release\TournamentSys.exe.config
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Release\TournamentSys.exe
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Release\TournamentSys.pdb
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.RegisterSystem.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.Login.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.RegisterIndiv.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.ScoreIndiv.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.tournament.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.RegisterTeam.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.ScoreTeams.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.Home.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.Properties.Resources.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.csproj.GenerateResource.cache
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.csproj.CoreCompileInputs.cache
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.exe
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Release\TournamentSys.pdb

@@ -1,0 +1,155 @@
+F:\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.pdb
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form1.resources
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.pdb
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form2.resources
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form3.resources
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form4.resources
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form5.resources
+F:\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.exe.config
+F:\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.exe
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.exe
+F:\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Form6.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.pdb
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.exe.config
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\bin\Debug\TournamentSys.pdb
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Home.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.Login.resources
+F:\BTEC LEVEL 3\TournamentSys\TournamentSys\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe.config
+F:\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe
+F:\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.pdb
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Login.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Home.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.exe
+F:\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.pdb
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe.config
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.pdb
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Login.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Home.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.pdb
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe.config
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.pdb
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Login.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Home.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.exe
+D:\Shan\Fiver\Pandding\Tournament\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.pdb
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe.config
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.exe
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\bin\Debug\TournamentSys.pdb
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Login.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Home.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.exe
+G:\MYFIVERR\Fiverr\ODERS\PENDING\ragnarok01\TournamentSystem\TournamentSystem\TournamentSys\obj\Debug\TournamentSys.pdb
+C:\Users\halop\Desktop\Tournament\TournamentSys\bin\Debug\TournamentSys.exe.config
+C:\Users\halop\Desktop\Tournament\TournamentSys\bin\Debug\TournamentSys.exe
+C:\Users\halop\Desktop\Tournament\TournamentSys\bin\Debug\TournamentSys.pdb
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.Login.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.Home.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.exe
+C:\Users\halop\Desktop\Tournament\TournamentSys\obj\Debug\TournamentSys.pdb
+C:\Users\halop\Desktop\Tournament\TournamentSys\bin\Debug\FluentValidation.dll
+C:\Users\halop\Desktop\Tournament\TournamentSys\bin\Debug\FluentValidation.xml
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.exe.config
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.exe
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.pdb
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.exe
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.pdb
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\FluentValidation.dll
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\FluentValidation.xml
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.csprojResolveAssemblyReference.cache
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Login.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Home.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+E:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.Cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.exe.config
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\TournamentSys.pdb
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\FluentValidation.dll
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\bin\Debug\FluentValidation.xml
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.AssemblyReference.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterSystem.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Login.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterIndiv.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreIndiv.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.tournament.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.RegisterTeam.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.ScoreTeams.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Home.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.Properties.Resources.resources
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.GenerateResource.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.csproj.CoreCompileInputs.cache
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.exe
+F:\BTEC LEVEL 3\Activities\IT with Paul\Part B and C\Tournament\TournamentSys\obj\Debug\TournamentSys.pdb
